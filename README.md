@@ -1,2 +1,2 @@
 # Classification-Project
-Apply different Classification algorithms and metrices on different datasets
+Apply Different Classification Algorithms and Metrices on different datasets
